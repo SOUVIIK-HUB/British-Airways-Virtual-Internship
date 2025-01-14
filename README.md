@@ -6,7 +6,7 @@ In this virtual intership, I was given 2 task's.
 
 ## Task 1 : Web Scraping to gain company insights
 
-Business problem : British airways (BA) want to understand how people view BA customer experience to make our operations run more efficiently and make our customer experience even better.
+Business problem : British airways (BA) want to understand how people view BA customer experience to make their operations run more efficiently and make their customer experience even better.
 
 For this task, I did web scraping using the beautifulsoup library on the following website: https://www.airlinequality.com/airline-reviews/british-airways
 
